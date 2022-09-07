@@ -1,6 +1,5 @@
 # Biquadris
-A two player Tetris-like game where players place blocks and compete to be the only survivor. Written in C++ and using XQuartz by Darian Zhang, Billy Lee,
-and Jason Feng.
+A two player Tetris-like game where players place blocks and compete to be the only survivor. The game implements the Factory Method Pattern to spawn blocks at different odds for each level. The MVC architecture is also used as a basis for the Game and View class in the code. Written in C++ and using XQuartz by Darian Zhang, Billy Lee, and Jason Feng.
 
 ## Please contact me at d355zhan@uwaterloo.ca for the source code.
 
