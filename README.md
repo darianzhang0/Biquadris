@@ -16,3 +16,14 @@ include blind (blocks a portion of the board), force (forces the opponent's bloc
 
 The game provides both a text output of the game and a graphical screen. Examples of gameplay are provided below.
 
+![Graphic Screen 1](/Screenshots/graphicscreen1.png)
+
+![Graphic Screen 3](/Screenshots/graphicscreen3.png)
+
+![Graphic Screen 2](/Screenshots/graphicscreen2.png)
+
+![Graphic Screen End](/Screenshots/graphicend.png)
+
+![Text Screen 1](/Screenshots/textscreen1.png)
+
+![Text Screen 2](/Screenshots/textscreen2.png)
